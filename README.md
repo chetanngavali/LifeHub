@@ -2,7 +2,7 @@
 
 A comprehensive digital life management platform that combines 11 essential services into one unified experience. LifeHub helps you organize every aspect of your daily life, from managing food inventory to planning trips and tracking baby milestones.
 
-![LifeHub Platform](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200)
+<img width="1919" height="880" alt="All In One Life Management Platform" src="https://github.com/user-attachments/assets/8e8f5041-581f-402d-8f69-e779146dd97e" />
 
 ## 🌟 Features
 
